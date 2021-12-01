@@ -1,6 +1,6 @@
 - Hi, I’m @Deb-toriola
-- 👀 I’m interested in data science 
-- Currently learning Python
+- 👀 I’m interested in web development 
+- Currently learning HTML, CSS and Javacript
 
 
 
